@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 use xilem::core::Edit;
-use xilem::view::{flex_col, flex_row, label, portal};
+use xilem::view::{flex_col, label, portal};
 use xilem::{WidgetView, WidgetViewSequence};
 
 struct NonSyncAppState {
